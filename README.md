@@ -2,8 +2,8 @@
 
 **`Desenvolvedor`**
 
-Me chamo Matheus Avelino, tenho 24 anos e sou natural do Rio Grande do Norte. Concluí o ensino médio no EPR-RN. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio de Sá, segundo período. Tenho tido bastantes aprendizados da área Dev e suas tecnologias. Tenho o meu perfil no instagram chamado "[Matheusavelino03](https://www.instagram.com/dev_em_dev/)".
-Procuro me especializar em Java como linguagem principal de desenvolvimento em FullStack.
+Me chamo Matheus Avelino, tenho 24 anos e sou natural do Rio Grande do Norte. Concluí o ensino médio no EPR-RN. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio de Sá, Terceiro  período. Tenho tido bastantes aprendizados da área Dev e suas tecnologias. Tenho o meu perfil no instagram "[Matheusavelino03](https://www.instagram.com/dev_em_dev/)".
+Procuro me especializar em Java como linguagem principal de desenvolvimento em FullStack, mas estou aberto a outras tecnologias.
 
 
 <p align="Rigth">
