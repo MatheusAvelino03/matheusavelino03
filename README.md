@@ -1,109 +1,42 @@
-# 👨‍💻 Matheus Avelino
+# Olá, eu sou [Matheus Avelino]! 👋
 
-**`Desenvolvedor`**
+### 👨‍💻 Desenvolvedor Java Back-end em Evolução
 
-Me chamo Matheus Avelino, tenho 24 anos e sou natural do Rio Grande do Norte. Concluí o ensino médio no EPR-RN. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio de Sá, Terceiro  período. Tenho tido bastantes aprendizados da área Dev e suas tecnologias. Tenho o meu perfil no instagram "[Matheusavelino03](https://www.instagram.com/dev_em_dev/)".
-Procuro me especializar em Java como linguagem principal de desenvolvimento em FullStack, mas estou aberto a outras tecnologias.
-
-
-<p align="Rigth">
-  <a href="https://www.linkedin.com/in/matheus-avelino-143119312/">
-    <img src="https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white">
-  </a>
-</p>
+Atualmente, sou estudante do **3º período de Análise e Desenvolvimento de Sistemas na Estácio**. Meu foco principal é construir aplicações robustas e escaláveis utilizando o ecossistema **Java**, buscando constantemente aprender as melhores práticas de desenvolvimento back-end e arquitetura de software.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🚀 Sobre Mim
+- 🎓 Cursando Tecnologia em Análise e Desenvolvimento de Sistemas (**Estácio**).
+- 🎯 Objetivo: Atuar como Desenvolvedor Java Back-end.
+- 🌱 No momento, estou aprofundando meus conhecimentos em **Spring Boot, Hibernate e APIs REST**.
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Linguagem-Java" 
-    title="Linguagem-Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Linguagem-C" 
-    title="Linguagem-C"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-/>
+---
 
-<br/>
-<br/>
+### 🛠️ Tecnologias e Ferramentas
 
-### 📊 Estatísticas
+<div align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" />
+</div>
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=MatheusAvelino03&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+---
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAvelino03&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+### 📊 Estatísticas do GitHub
 
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[https://github.com/MatheusAvelino03]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[https://github.com/MatheusAvelino03]&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
+---
 
+### 📫 Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-avelino-143119312)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](matheusavelino03@gmail.com)
 
-
+---
+*“O código é como humor. Quando você tem que explicar, é ruim.” – Cory House*
