@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Desenvolvedor Java Back-end em Evolução
 
-Atualmente, sou estudante do **3º período de Análise e Desenvolvimento de Sistemas na Estácio**. Meu foco principal é o desenvolvimento de soluções robustas no back-end, utilizando o ecossistema da linguagem **Java** e explorando tecnologias que complemente as funcionalidades desse sistema.
+Atualmente, sou estudante do **4º período de Análise e Desenvolvimento de Sistemas na Estácio**. Meu foco principal é o desenvolvimento de soluções robustas no back-end, utilizando o ecossistema da linguagem **Java** e explorando tecnologias que complemente as funcionalidades desse sistema.
 
 <br>
 
